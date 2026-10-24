@@ -2,6 +2,12 @@
 
 Offline campagne-wiki.
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DraveCodex](https://dravenlock.nl/video/DraveCodex.jpg)](https://dravenlock.nl/video/DraveCodex.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveCodex.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Tools en kantoor · versie 0.2.2*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
